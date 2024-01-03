@@ -2,7 +2,7 @@
 
 Projeto proposto durante a trilha Explorer - RocketSeat / Aprendendo display grid CSS.
 
-Utilizado HTML5 + CSS5(Grid)
+Utilizado HTML5 + CSS3(Grid)
 
 Optei por deixar o titulo no centro por ter achado mais bonito, porém o projeto original é colocado na mesma linha que as caixas da esquerda.
 
